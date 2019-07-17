@@ -43,7 +43,7 @@ Conversation is key to positive change. We want the stigma and Stereotyping and 
 I work as a creative technologist, UX researcher, and design A11y champion. I’m proud to be the technical lead for Tea and a Slice of Disability, I feel it’s so important to platform the often untold stories from this community of often marginalised people.
 As the non disabled member of T&SD you’ll often hear me asking how people like myself can do better and I’ll also be asking deeper questions on how we could or should design better products, experiences, or places for disabled people.
 
-
+***
 
 However the journey of setting this up has been a roller coaster itself. We wanted to launch with the biggest taboo that is out there, Sex. When it comes to talking openly about sex, as a nation we are still a bit reserved. So throw disability into the mix, everyone runs for the hills, well unless they are a devote, or have a wheelchair fetish.
 
@@ -59,6 +59,8 @@ However, I am a believer that things happen for a reason. Through the failings o
 
 I (Natalie Amber) took the lead on creating the website. I have to say, as someone who struggles to attach documents to emails, this was a little brave, and really naive. Mainly because i thought i could create it in a day. Mmm… roll on two weeks, and it’s still in development. There is a reason I am creative lead and not the technical lead. The link to the website is below, so please feel free to explore. Just a nugget to bare in mind, I am neurodiverse and  I have yet to spell check any of it. The next stage is to make the format cleaner, so it's easy to view with a screen reader. 
 https://www.teaandasliceofdisability.com/
+
+***
 
 If you would like to get in touch with us regarding the project, you can email us on teaanddisability@gmail.com  or via twitter @teadisability or Instagram @tea_and_slice_of_disability 
 
