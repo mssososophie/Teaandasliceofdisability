@@ -23,23 +23,23 @@ The challenge to all of us, was to upskill and learn how to deliver all of the a
 
 
 
-MEET THE TEAM :
+## MEET THE TEAM :
 
 
 
 
-Natalie Amber: 
+### Natalie Amber: 
 I am an actress and dancer, and all round creative. I have a passion about the human condition which come through in most of the work I create. I also love music, play the flute and teaching myself a few other instruments. I am just about to start level 3 BSL. Making the arts accessible for all  is a big part of what I do, as going to the theatre or watching TV  should not be for the privileged. Once we have secured funding, our end game is to make the podcasts as accessible as possible. So they will be transcribed, and we are exploring ways to make a BSL video of the podcasts.
 Outside the arts, I love fashion and colour. And a huge animal lover and all round crazy person. I am neurodiverse, suffer with mental health and have a very dysfunctional body. I have been in a wheelchair for 9yrs, and gone through nearly every stage of mobility. I have severe chronic pain and a catheter, which comes into its own at times. The way I view things is all the above is just part of me. It doesn't define me.
 
-Clare McNulty: 
+### Clare McNulty: 
 I am a neurodiverse artist and performer. I focus on the beauty in difference through my queer and vaired practice. This Podcast is one branch of that, grown in Manchester International Festival's creative lab.
 I have what people call 'Invisible disability, because i am not in a wheelchair or visibly disabled. I try not to walk with aids where possible due to the fact the A: I have not found one stylish enough yet
 B: Sticks i struggle to hold
 C:They don't' really help me balance, and I wouldn't want a stranger right to tell me I look drunk away!
 Conversation is key to positive change. We want the stigma and Stereotyping and othering of minorities to stop.
 
-Sophie Ashcroft. : 
+### Sophie Ashcroft. : 
 I work as a creative technologist, UX researcher, and design A11y champion. I’m proud to be the technical lead for Tea and a Slice of Disability, I feel it’s so important to platform the often untold stories from this community of often marginalised people.
 As the non disabled member of T&SD you’ll often hear me asking how people like myself can do better and I’ll also be asking deeper questions on how we could or should design better products, experiences, or places for disabled people.
 
