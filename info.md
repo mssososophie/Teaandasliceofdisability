@@ -39,7 +39,7 @@ B: Sticks i struggle to hold
 C:They don't' really help me balance, and I wouldn't want a stranger right to tell me I look drunk away!
 Conversation is key to positive change. We want the stigma and Stereotyping and othering of minorities to stop.
 
-### Sophie Ashcroft. : 
+### Sophie Ashcroft: 
 I work as a creative technologist, UX researcher, and design A11y champion. I’m proud to be the technical lead for Tea and a Slice of Disability, I feel it’s so important to platform the often untold stories from this community of often marginalised people.
 As the non disabled member of T&SD you’ll often hear me asking how people like myself can do better and I’ll also be asking deeper questions on how we could or should design better products, experiences, or places for disabled people.
 
@@ -49,7 +49,9 @@ However the journey of setting this up has been a roller coaster itself. We want
 
 Now we are quite well versed when it comes to this topic, between Sophie being a sex tech hacker, Clare being a dominatrix, who's MS gets exaspersted by vibraters and myself who has to be really inventive when it comes to any of it.
 Our first interview we went straight to the source, and interview a sex toy and aid company. All was going so well, until the owner laid bare a scandal attached to the shop that, on an ethical level we didn't want to be associated with. Maybe it was a silver lining as we made our first epic mistake. Despite the fact I tested the microphone and the sound levels. At some point in the interview the microphone cable had been knocked. So nothing was recorded. First Lesson on the day, always record a back up!
+
 But we had a fleet of shops in our arsenal, so spared no time and contact Love Honey. They were really receptive, wanted to be part of the conversation, after a bit of chasing we had a date set. With the deadline of our first episode looming, we discovered out next obstacle, finding an accessible recording studio or small room to hold a skype interview. Mission impossible, unless you have a lot of cash to part with. But hey we don't do convention, so if the sound is not perfect, sod it, lets just call it part of the ambience.
+
 Well of course, with only 4 days until our deadline, it would be too simple for everything to be smooth sailing. The afternoon before the interview, to be courteous we sent Love Honey a rough guide to the questions we were going to ask. I have to add, we had already discussed the topic with them. Within 15mins they emailed back, not phoned. To say they no longer had anyone free to speak to us, but good luck with the project????? What the F£@k!!! Now to give a bit of context, Love Honey have their own podcast series, who have never mentioned disability. Mmmm.......... let's take a guess that an episode on disability is their next podcast??
 
 So no, we didn't meet our deadline. So currently the podcast sound bite below is still a work in progress and not the final episode.
@@ -57,14 +59,12 @@ However, I am a believer that things happen for a reason. Through the failings o
 
 I (Natalie Amber) took the lead on creating the website. I have to say, as someone who struggles to attach documents to emails, this was a little brave, and really naive. Mainly because i thought i could create it in a day. Mmm… roll on two weeks, and it’s still in development. There is a reason I am creative lead and not the technical lead. The link to the website is below, so please feel free to explore. Just a nugget to bare in mind, I am neurodiverse and  I have yet to spell check any of it. The next stage is to make the format cleaner, so it's easy to view with a screen reader. 
 https://www.teaandasliceofdisability.com/
+
 If you would like to get in touch with us regarding the project, you can email us on teaanddisability@gmail.com  or via twitter @teadisability or Instagram @tea_and_slice_of_disability 
 
 
 The Link below leads you to a taster of our first podcast. The whole episode is still being edited and constructed. We have a few guest features to add in. We are hoping to have the first episode go live by the end of July. If you follow us on Twitter or Instagram, we will send out a link. It will be hosted on  Itunes and Spotify.   http://Www.soundcloud.com/teaandasliceofdisability 
 
+***
+
 We are excited about what lies in the future of Tea and a Slice of Disability. I am sure there will be plenty of more high's and low's. But we are here to take you on the ride with us!
-
-
-
-
-
